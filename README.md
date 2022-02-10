@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @karandanej
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning PHP
-- 💞️ I’m looking to collaborate on Web developers
+- 💞️ I’m looking to collaborate with Web developers
 - 📫 How to reach me on my website https://karandanej.com/ or call +91 8140234561
 
 <!---
